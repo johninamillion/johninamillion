@@ -1,6 +1,1 @@
-- 👋 Hi, I`m John!
-- 📟️ I`m a child of the 90s.
-- 🏙️ I`m living in Hamburg, Germany.
-- 👨🏼‍💻️ I`m headinstructor for web on the SAE campus in Hamburg.
-- ⌨️ I`m a WordPress fan who like to do projects from scratch.
-- 💉️ I`m tattoo addicted and started to tattooing too.
+
